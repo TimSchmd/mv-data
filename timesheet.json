@@ -2,7 +2,6 @@
 	"project": [
 		{
 			"projectname": "Test",
-			"priceperhour": 1,
 			"timeslot": [
 				{
 					"step": "Proces1"
