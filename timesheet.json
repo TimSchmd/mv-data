@@ -22,6 +22,7 @@
 			"projectname": "Project 2",
 			"timeslot": [
 				{
+					"date": "2023-05-15",
 					"step": "Proces1"
 				}
 			]
