@@ -11,6 +11,9 @@
 				},
 				{
 					"step": "Proces1"
+				},
+				{
+					"step": "Proces1"
 				}
 			],
 			"priceperhour": 12.01
