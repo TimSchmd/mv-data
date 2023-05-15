@@ -6,7 +6,8 @@
 				{
 					"date": "2023-05-15",
 					"countfrom": 1684157526857,
-					"countto": 1684157811997
+					"countto": 1684157811997,
+					"step": "Proces2"
 				}
 			],
 			"priceperhour": 12.01
@@ -18,7 +19,8 @@
 				{
 					"date": "2023-05-15",
 					"countfrom": 1684157556385,
-					"countto": 1684157813181
+					"countto": 1684157813181,
+					"step": "Proces1"
 				}
 			]
 		}
