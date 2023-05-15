@@ -14,13 +14,13 @@
 					"date": "2023-05-16",
 					"countfrom": 1684174339048,
 					"countto": 1684174344608,
-					"step": "Proces1"
+					"step": "Proces2"
 				}
 			]
 		},
 		{
 			"projectname": "Project 2",
-			"priceperhour": 1,
+			"priceperhour": 15,
 			"timeslot": [
 				{
 					"date": "2023-05-16",
