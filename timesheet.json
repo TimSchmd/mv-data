@@ -1,6 +1,7 @@
 {
 	"project": [
 		{
+			"projectname": "TE",
 			"timeslot": [
 				{
 					"step": "Proces1"
