@@ -1,31 +1,8 @@
 {
 	"project": [
 		{
-			"projectname": "Project",
-			"timeslot": [
-				{
-					"date": "2023-05-15",
-					"countfrom": 1684157526857,
-					"countto": 1684158318553,
-					"step": "Proces1"
-				},
-				{
-					"date": "2023-05-16",
-					"countfrom": 1684158495718,
-					"countto": 1684158563358,
-					"step": "Proces2"
-				},
-				{
-					"date": "2023-05-18",
-					"countfrom": 1684158496035,
-					"countto": 1684158563993,
-					"step": "Proces3"
-				}
-			]
-		},
-		{
 			"projectname": "Test",
-			"priceperhour": 10,
+			"priceperhour": 1,
 			"timeslot": [
 				{
 					"date": "2023-05-15",
