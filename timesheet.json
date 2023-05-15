@@ -1,12 +1,3 @@
 {
-	"project": [
-		{
-			"projectname": "Test",
-			"timeslot": [
-				{
-					"step": "Proces1"
-				}
-			]
-		}
-	]
+	"project": []
 }
