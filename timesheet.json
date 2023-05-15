@@ -3,6 +3,7 @@
 		{
 			"projectname": "Project",
 			"timeslot": [
+				{},
 				{}
 			],
 			"priceperhour": 5
