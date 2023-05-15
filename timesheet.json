@@ -2,7 +2,7 @@
 	"project": [
 		{
 			"projectname": "Test",
-			"priceperhour": 13,
+			"priceperhour": 13.01,
 			"timeslot": [
 				{
 					"date": "2023-05-15",
