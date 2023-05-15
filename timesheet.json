@@ -1,15 +1,3 @@
 {
-	"project": [
-		{
-			"projectname": "Test",
-			"timeslot": [
-				{
-					"date": "2023-05-15",
-					"countfrom": 1684157556385,
-					"countto": 1684158322055,
-					"step": "Proces1"
-				}
-			]
-		}
-	]
+	"project": []
 }
