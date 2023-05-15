@@ -4,17 +4,22 @@
 			"projectname": "Project",
 			"timeslot": [
 				{
-					"date": "2023-05-18",
+					"date": "2023-05-15",
 					"countfrom": 1684157526857,
-					"countto": 1684157528641
+					"countto": 1684157567388
 				}
 			],
 			"priceperhour": 5
 		},
 		{
-			"projectname": "TEst",
+			"projectname": "Test",
+			"priceperhour": 10,
 			"timeslot": [
-				{}
+				{
+					"date": "2023-05-15",
+					"countfrom": 1684157556385,
+					"countto": 1684157572257
+				}
 			]
 		}
 	]
