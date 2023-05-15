@@ -8,6 +8,9 @@
 					"countfrom": 1684157526857,
 					"countto": 1684158318553,
 					"step": "Proces1"
+				},
+				{
+					"step": "Proces1"
 				}
 			],
 			"priceperhour": 12.01
