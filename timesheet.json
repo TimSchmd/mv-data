@@ -26,7 +26,7 @@
 		},
 		{
 			"projectname": "Project 2",
-			"priceperhour": 15,
+			"priceperhour": 1,
 			"timeslot": [
 				{
 					"date": "2023-05-16",
@@ -41,14 +41,6 @@
 					"countto": 1684767675835
 				}
 			]
-		},
-		{
-			"timeslot": [
-				{
-					"step": "Proces1"
-				}
-			],
-			"projectname": "Project 3"
 		}
 	]
 }
