@@ -38,6 +38,13 @@
 					"step": "Proces1"
 				}
 			]
+		},
+		{
+			"timeslot": [
+				{
+					"step": "Proces1"
+				}
+			]
 		}
 	]
 }
