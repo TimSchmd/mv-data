@@ -47,7 +47,8 @@
 				{
 					"step": "Proces1",
 					"date": "2023-05-22",
-					"countfrom": 1684767794939
+					"countfrom": 1684767794939,
+					"countto": 1684767795702
 				}
 			],
 			"projectname": "Project 3"
