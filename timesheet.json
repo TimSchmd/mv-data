@@ -47,7 +47,8 @@
 				{
 					"step": "Proces1"
 				}
-			]
+			],
+			"projectname": "P"
 		}
 	]
 }
