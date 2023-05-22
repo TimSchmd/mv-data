@@ -36,7 +36,8 @@
 				},
 				{
 					"step": "Proces1",
-					"countfrom": 1684767674981
+					"countfrom": 1684767674981,
+					"countto": 1684767675835
 				}
 			]
 		},
