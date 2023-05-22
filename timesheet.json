@@ -15,6 +15,9 @@
 					"countfrom": 1684174339048,
 					"countto": 1684174400187,
 					"step": "Proces2"
+				},
+				{
+					"step": "Proces1"
 				}
 			]
 		},
